@@ -1,0 +1,6 @@
+rvm install 2.7.0
+    ///prob Error running '__rvm_make -j16',
+    ??
+rvm use 2.7.0
+gem install rails -v 6.0.2
+rails _6.0.2_ new myapp
